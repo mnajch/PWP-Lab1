@@ -1,0 +1,3 @@
+C:/mnich/PWP-Lab1/bld/CMakeFiles/ALL_BUILD.dir
+C:/mnich/PWP-Lab1/bld/CMakeFiles/Laborka.dir
+C:/mnich/PWP-Lab1/bld/CMakeFiles/ZERO_CHECK.dir
