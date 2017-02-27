@@ -1,14 +1,14 @@
-﻿Build started 2017-02-27 12:57:51.
+﻿Build started 2017-02-27 13:03:31.
      1>Project "C:\mnich\PWP-Lab1\bld\Laborka.vcxproj" on node 2 (rebuild target(s)).
      1>_PrepareForClean:
          Deleting file "Laborka.dir\Debug\Laborka.lastbuildstate".
        InitializeBuildStatus:
-         Touching "Laborka.dir\Debug\Laborka.unsuccessfulbuild".
+         Creating "Laborka.dir\Debug\Laborka.unsuccessfulbuild" because "AlwaysCreate" was specified.
        CustomBuild:
          Building Custom Rule C:/mnich/PWP-Lab1/src/CMakeLists.txt
          CMake does not need to re-run because C:\mnich\PWP-Lab1\bld\CMakeFiles\generate.stamp is up-to-date.
        ClCompile:
-         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\mnich\PWP-Lab1\src\Trygonometria" /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"Laborka.dir\Debug\\" /Fd"Laborka.dir\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\src\main.cpp
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\mnich\PWP-Lab1\src\Trygonometria" /I"C:\mnich\PWP-Lab1\bld" /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"Laborka.dir\Debug\\" /Fd"Laborka.dir\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\src\main.cpp
          main.cpp
        ManifestResourceCompile:
          C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Laborka.dir\Debug\Laborka.exe.embed.manifest.res" Laborka.dir\Debug\Laborka_manifest.rc 
@@ -30,4 +30,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:00.66
+Time Elapsed 00:00:00.74
