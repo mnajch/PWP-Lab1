@@ -1,5 +1,4 @@
 #include "LaborkaConfig.h"
-#include "trygonometria.h"
 
 #ifdef USE_TRIGONOMETRY_DEGREE
 #include "trygonometria.h"
